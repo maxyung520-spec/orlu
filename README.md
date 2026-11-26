@@ -4,15 +4,15 @@ Official public release repository for **Orlu** (Windows x64). *(Source code is 
 
 ## 📥 Latest Download / 最新版本下載
 
-- **Latest Release**: **[Orlu v0.28.1 — Download Orlu-Windows-x64-0.28.1.zip](https://github.com/maxyung520-spec/orlu/releases/latest)**
+- **Latest Release**: **[Orlu v0.28.2 — Download Orlu-Setup-0.28.2.exe](https://github.com/maxyung520-spec/orlu/releases/latest)**
 - **Website & Guide**: [https://orluapp.com](https://orluapp.com)
 - **Release History (since v0.27.6)**: [https://github.com/maxyung520-spec/orlu/releases](https://github.com/maxyung520-spec/orlu/releases)
 
-> **Download policy:** Only the latest version (`v0.28.1`) is available for download. Older versions are retired and not hosted. Release records are kept from `v0.27.6` onward.
+> **Download policy:** Only the latest version (`v0.28.2`) is available for download. Older versions are retired and not hosted. Release records are kept from `v0.27.6` onward.
 
 ## 🚀 How to Install & Update / 安裝與更新方法
 
-1. **First-time install**: Download `Orlu-Windows-x64-<version>.zip` from [orluapp.com/download.html](https://orluapp.com/download.html) or [Releases](https://github.com/maxyung520-spec/orlu/releases/latest), unzip it, and run `Orlu-Windows-x64/Orlu.exe`.
+1. **First-time install**: Download `Orlu-Setup-<version>.exe` from [orluapp.com/download.html](https://orluapp.com/download.html) or [Releases](https://github.com/maxyung520-spec/orlu/releases/latest) and run it (installs to `%LOCALAPPDATA%\Programs\Orlu`). If Windows SmartScreen prompts because the installer is unsigned, verify the SHA-256 and choose **More info → Run anyway**.
 2. **In-app Auto-Update**: Orlu automatically checks for new releases on startup. When a newer version is published, click **⬇ 一鍵更新 (Download & update)** in the sidebar or go to **⚙ Setting → 版本更新 (Version updates)** to update in place while keeping all your conversations, projects, and settings.
 
 ## Licence and terms
