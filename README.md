@@ -4,11 +4,11 @@ Official public release repository for **Orlu** (Windows x64). *(Source code is 
 
 ## 📥 Latest Download / 最新版本下載
 
-- **Latest Release**: **[Orlu v0.28.5 — Download Orlu-Setup-0.28.5.exe](https://github.com/maxyung520-spec/orlu/releases/latest)**
+- **Latest Release**: **[Orlu v0.28.6 — Download Orlu-Setup-0.28.6.exe](https://github.com/maxyung520-spec/orlu/releases/latest)**
 - **Website & Guide**: [https://orluapp.com](https://orluapp.com)
 - **Release History (since v0.27.6)**: [https://github.com/maxyung520-spec/orlu/releases](https://github.com/maxyung520-spec/orlu/releases)
 
-> **Download policy:** Only the latest version (`v0.28.5`) is available for download. Older versions are retired and not hosted. Release records are kept from `v0.27.6` onward.
+> **Download policy:** Only the latest version (`v0.28.6`) is available for download. Older versions are retired and not hosted. Release records are kept from `v0.27.6` onward.
 
 ## 🚀 How to Install & Update / 安裝與更新方法
 
